@@ -25,3 +25,12 @@ Some of this Fireware:
 - Micropython Firmware : [Micropython doenload](https://micropython.org/download/rp2-pico-w/).
 - CircuitPython Firmware : [CircuitPython download](https://circuitpython.org/board/raspberry_pi_pico_w/).
 </p>
+
+
+<h1>RP pico w project </h1>
+<h2> Circuitopython </h2>
+
+<p>
+- Telegram bot  
+</p>
+
