@@ -32,9 +32,16 @@ Some of this Fireware:
 
 <p>
 - Telegram bot  
+
+
+ <picture>
+<img alt="The Raspberry Pi Pico W " src="https://github.com/moaml1999/RaspberryPi_Pico_w/blob/main/Telegram%20pico%20W/img.jpg">
+</picture>
+
  <p>Controlling an LED in Raspberry Pi Pico using a Telegram bot involves integrating the Pico microcontroller with the Telegram messaging platform. Raspberry Pi Pico is a versatile microcontroller board that can be programmed using the CircuitPython languages. Telegram is a popular messaging app with a bot API that allows developers to create custom bots for various tasks. 
- code: 
- </p>
+<p>code: [Telegram pico w]() </p>
+  
+   </p>
  
 </p>
 
