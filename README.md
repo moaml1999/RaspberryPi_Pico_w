@@ -32,15 +32,22 @@ Some of this Fireware:
 <h2> Circuitopython </h2>
 
 <p>
-- Telegram bot  
-   </p>
+<h5>Telegram bot  </h5> 
+   
 
 
  <picture>
 <img alt="The Raspberry Pi Pico W " src="https://github.com/moaml1999/RaspberryPi_Pico_w/blob/main/Telegram%20pico%20W/img.jpg">
 </picture>
 
- <p> 
   Controlling an LED in Raspberry Pi Pico using a Telegram bot involves integrating the Pico microcontroller with the Telegram messaging platform. Raspberry Pi Pico is a versatile microcontroller board that can be programmed using the CircuitPython languages. Telegram is a popular messaging app with a bot API that allows developers to create custom bots for various tasks. 
-  
+ <p> 
 
+
+<p>
+<h3> - Control LED on Raspberry Pi Pico using Blynk Platform and CircuitPython </h3> 
+ <p>In this project, we use a Raspberry Pi Pico to control an LED using the Blynk platform and CircuitPython. Blynk is a tool that lets us create custom smartphone apps to control hardware remotely. CircuitPython is a special version of Python that works on small devices like the Raspberry Pi Pico.
+
+To make it work, we connect the LED to the Pi Pico and create a circuit. We then set up a Blynk app on our smartphone and add a button to control the LED. When we press the button in the app, the LED turns on or off.
+</p>
+</p>
