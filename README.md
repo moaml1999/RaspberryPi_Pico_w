@@ -1,5 +1,6 @@
-# Raspberry Pi Pico W
-<p> The Raspberry Pi Pico W is a wireless version of the popular Raspberry Pi Pico microcontroller board. It incorporates an onboard ESP32 module, enabling Wi-Fi and Bluetooth connectivity. This addition expands the potential applications of the Pico W in the realm of IoT, wireless communication, and remote monitoring. </p>
+<h1 align="center" >Raspberry Pi Pico W<h>
+ 
+<h4> The Raspberry Pi Pico W is a wireless version of the popular Raspberry Pi Pico microcontroller board. It incorporates an onboard ESP32 module, enabling Wi-Fi and Bluetooth connectivity. This addition expands the potential applications of the Pico W in the realm of IoT, wireless communication, and remote monitoring. </h4>
 
 
 <picture>
@@ -29,10 +30,16 @@ Some of this Fireware:
 
 
 <h1>RP pico w project </h1>
+
+* Telegram bot
+* Control LED on Raspberry Pi Pico using Blynk Platform and CircuitPython 
+
 <h2> Circuitopython </h2>
 
 <p>
-<h5>Telegram bot  </h5> 
+
+ * Telegram bot
+
    
 
 
@@ -43,9 +50,13 @@ Some of this Fireware:
   Controlling an LED in Raspberry Pi Pico using a Telegram bot involves integrating the Pico microcontroller with the Telegram messaging platform. Raspberry Pi Pico is a versatile microcontroller board that can be programmed using the CircuitPython languages. Telegram is a popular messaging app with a bot API that allows developers to create custom bots for various tasks. 
  <p> 
 
-
 <p>
-<h3> - Control LED on Raspberry Pi Pico using Blynk Platform and CircuitPython </h3> 
+
+
+<h1></h1> 
+
+ * Control LED on Raspberry Pi Pico using Blynk Platform and CircuitPython
+
  <p>In this project, we use a Raspberry Pi Pico to control an LED using the Blynk platform and CircuitPython. Blynk is a tool that lets us create custom smartphone apps to control hardware remotely. CircuitPython is a special version of Python that works on small devices like the Raspberry Pi Pico.
 
 To make it work, we connect the LED to the Pi Pico and create a circuit. We then set up a Blynk app on our smartphone and add a button to control the LED. When we press the button in the app, the LED turns on or off.
