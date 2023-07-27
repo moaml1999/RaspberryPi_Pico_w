@@ -1,5 +1,7 @@
 <h1 align="center" >Raspberry Pi Pico W<h>
+
  
+
 <h4> The Raspberry Pi Pico W is a wireless version of the popular Raspberry Pi Pico microcontroller board. It incorporates an onboard ESP32 module, enabling Wi-Fi and Bluetooth connectivity. This addition expands the potential applications of the Pico W in the realm of IoT, wireless communication, and remote monitoring. </h4>
 
 
@@ -62,3 +64,9 @@ Some of this Fireware:
 To make it work, we connect the LED to the Pi Pico and create a circuit. We then set up a Blynk app on our smartphone and add a button to control the LED. When we press the button in the app, the LED turns on or off.
 </p>
 </p>
+
+
+## License
+
+MIT
+
