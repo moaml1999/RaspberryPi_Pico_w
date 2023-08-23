@@ -57,7 +57,7 @@ Some of this Fireware:
 
 <h1></h1> 
 
- * Control LED on Raspberry Pi Pico using Blynk Platform and CircuitPython
+ * Control LED Blynk Platform
 
  <p>In this project, we use a Raspberry Pi Pico to control an LED using the Blynk platform and CircuitPython. Blynk is a tool that lets us create custom smartphone apps to control hardware remotely. CircuitPython is a special version of Python that works on small devices like the Raspberry Pi Pico.
 
